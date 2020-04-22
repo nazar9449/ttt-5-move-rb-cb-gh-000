@@ -3,7 +3,7 @@ if false
      statement evaluates to false."
    elsif false
      puts "5 ikiden ulydyr"
-   elsif 5>3
+   elsif 2>5
      puts "5 3den ulydyr"
 else
    puts "This will get printed!"
